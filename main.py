@@ -95,7 +95,6 @@ class NodeDLL:
     def __init__(self, data=None):
         self.data = data
         self.next = None
-        # Task4
         self.previous = None
 
 
